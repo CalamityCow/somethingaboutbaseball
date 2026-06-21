@@ -1,2 +1,2 @@
-# SmartBall
-Smart baseball; a baseball with gyroscope and onboard accelerometer embedded within the baseball itself allowing for easy collection of data such as velocity, rpm, spin direction, spin efficiency, etc.
+# somethingaboutbaseball
+a radar system to track ball pitch speed and exit velocity. later on also maybe rpm, spin direction, movement, etc.
